@@ -2,9 +2,9 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - [Studio Pollo]
+  - [22 Down]
+  - [Piece of ware]
 - **Alternative Ideas:**
   - [Insert alternative name idea 1]
   - [Insert alternative name idea 2]
