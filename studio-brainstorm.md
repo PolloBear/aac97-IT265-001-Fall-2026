@@ -6,9 +6,9 @@
   - [22 Down]
   - [Piece of ware]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - [Basement 6]
+  - [lilttle water]
+  - [Zuta]
 
 - **Chosen Name**:
 - **About the name**:
