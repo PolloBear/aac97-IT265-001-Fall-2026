@@ -6,12 +6,11 @@
 ### Date: [09/28/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
+ Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
 - [x] Make the files from the class
 - [ ] Finish the files created
 
 
-#### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
