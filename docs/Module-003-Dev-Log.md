@@ -1,38 +1,35 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Andy Crespo
+### Module: Module 02 - Concept Workshop
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [10/D05/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
-- [ ] Example pending goal
-- [x] Example completed goal
+- [x] Brainstorm and shortlist initial game concepts
+- [x] Create pitch cards and record peer feedback
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - Developed and shortlisted 2 game concepts.
+  - Defined the core mechanics of the Jojos tcg.
+  - Created and formatted all six workshop Markdown files. 
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  >  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+   -I didn't get into any challenges really because I had written down my idea way before I started the documents and just had to refine it. 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  > Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+  - N/A 
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-> Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+> The importance of scoping down complex systemic ideas into minimal, testable paper prototypes
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  Already had a doc
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
->  Unanswered <!--Your entry here or N/A if not applicable for this entry-->
+>  work on making the acutal prototype
