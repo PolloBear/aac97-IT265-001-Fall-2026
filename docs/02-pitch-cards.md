@@ -22,7 +22,7 @@ At the start of each turn, draw a card and gather energy points. Decide how to u
 Hidden bluffing mechanics through face-down trap cards inspired by Stand clashes, forcing players to read their opponent's bluffs before declaring an attack.
 
 **Smallest useful physical prototype:**
-A 30-card index card deck with basic stats (Cost, Attack, Health, Effect) and broken shards(tokens) representing Energy and Life totals to test turn flow and combat math on paper.
+A 30-card index card deck with basic stats (Cost, Attack, Health, Effect) and broken shards(its a card) representing Energy and Life totals to test turn flow and combat math on paper.
 
 **Question I want listeners to answer:**
 Does having both active character abilities and hidden trap cards add fun mind games, or does it make the first playable prototype too complicated to balance?
