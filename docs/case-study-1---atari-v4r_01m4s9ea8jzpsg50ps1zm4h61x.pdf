@@ -1,0 +1,1692 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [42. 667. 436.2999999999999545 654.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/aac97) >> >>
+<</Type /Annot /Subtype /Link /Rect [42. 641. 472.0999999999997954 628.] /Border [0 0 0] /A <</S /URI /URI (https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/aac97) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5212
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0 g
+42. 748. Td
+(Case Study 1 - Atari) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+42. 724. Td
+(Student submission) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 706. Td
+(Assignment revision: 5 | Maximum points: 10 | Student: aac97 | Submitted:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 694. Td
+(2026-10-13T00:08:49.681Z | Submission revision: 829 | Receipt:) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0 g
+42. 682. Td
+(v4r_01M4S9EA8JZPSG50PS1ZM4H61X | Exported: 2026-10-13T00:20:04.470Z) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0 g
+42. 670. Td
+(Worksheet link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 657. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/aac97) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0. g
+42. 644. Td
+(Grading link) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0.294 0.588 rg
+42. 631. Td
+(https://courses.ethereallab.app/assignment/v4/IT265-001-F2026/case-study-1-atari/grading/aac97) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0. g
+42. 618. Td
+(AI disclosure: Completed; 1 entry; 1 declared AI use; 0 declared no AI use; policy v1) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 596. Td
+(Game Overview) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 571. Td
+(Game details) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 554. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 539. Td
+(Identify the game: title, developer, publisher, original platform, genre, and release date. Note) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 526. Td
+(the version you played if different.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 513. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 498. Td
+(Title:Pac-Man \(Atari 2600\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 485. Td
+(Developer: Atari, Tod Frye) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 472. Td
+(Publisher: Atari, Sears) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 459. Td
+(Original platform: Atari 2600) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 446. Td
+(Genre: Action) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 433. Td
+(Release: March, 1982 ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 420. Td
+(Citiation: https://atarionline.org/atari-2600/pac-man) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 392. Td
+(History and industry) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 375. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 360. Td
+(Explain the historical context of the release and where the game fit in the industry at that) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 347. Td
+(time.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 334. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 319. Td
+(Pac-Man launched on the Atari 2600 in March 1982, the home version of the large commercial boom of the arcade port.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 306. Td
+(Atari secured the exclusive home console rights so they could drive the sales of the hardware. Atari produced roughly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 293. Td
+(12 million cartridges with the expectation of millions of customers buying the Atari console just to play the game.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 280. Td
+(Pac-Man was a commercial success, selling over 7 million units and becoming Atari's best-selling game in history. This) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 267. Td
+(came at a cost because the massive change in quality from the arcade to the home console led to wide spread) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 254. Td
+(consumers dissapointment led to millions of unsold copies and returned copies. This damaged consumers' trust) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 241. Td
+(alongside the E.T. game the same year, which led to the North American video game crash of 1983. ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 215. Td
+(https://en.wikipedia.org/wiki/Pac-Man_\(Atari_2600_video_game\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 187. Td
+(Contemporary comparison) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 170. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 155. Td
+(Compare the game with a similar game from the same period, explaining a meaningful) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 142. Td
+(design similarity or difference.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 129. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 114. Td
+(I'm gonna compare the original arcade to the Atari version based on everything. The original arcade had more life in it,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 101. Td
+(with enemy ghosts being bright colors compared to the Atari version, with very grey colors and also blinking around the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 88. Td
+(map, making it hard to see when eating a pellet. The Pac-Man in ht e ogrinal game is a yellow circle eating, but in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 75. Td
+(Atari version he has eyes showing a little more expression when eating and dying to a ghost. The movement on the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 62. Td
+(arcade is better and more rewarding, while in the atari the pac man is hard to move up and the pellets are just like lines.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 1 of 5) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6118
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(The noise it makes is also a sharp, horrible noise compared to the arcade machine, which is alot nice and more) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(pleasing to the ears.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 707. Td
+(Gameplay Mechanics And Level Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 682. Td
+(Core gameplay mechanics) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 665. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 650. Td
+(Explain how the core actions and rules shape a recurring player decision. Support the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 637. Td
+(explanation with a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 624. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 609. Td
+(The core loop of Pac-Man on the Atari is about collecting pellets to get points while avoidoing ghost the move around) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 596. Td
+(the map. The player must collect all the pellets scattered across the maze to clear the level and advance. There are four) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 583. Td
+(ghosts that roam around the maze. There are also four pellets that are placed at the corners of the amze the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 570. Td
+(tempooraily make the ghost cosumable and move slower for the player to make contact with them and get more points ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 557. Td
+(to the board. The player is restricted to four movements up, down, left, and right, and they use a joystick to control it.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 544. Td
+(This gives the players options when playing the game, whether they should trigger a power pellet early or later in the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 531. Td
+(game while getting max points, making it high risk when it comes to point maximization. A game play example would be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 518. Td
+(players move to the corner of the map to get the power pellet. Once comsumed the ghost on the map are start to flicker) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 505. Td
+(and change color and one ghost that is close gets eaten by the player and they turn into two eye balls and float back to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 492. Td
+(the middle of the map to come back to there ghost form.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 464. Td
+(Level design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 447. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 432. Td
+(Explain how the layout, obstacles, or progression affect a player decision or challenge. Use) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 419. Td
+(a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 406. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 391. Td
+(The layout differs from the arcade version a lot, changing the way the player plays and moves around the map. Instead) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 378. Td
+(of the horizontal warp tunnels, they become vertical tunnels located at the top and bottom of the center of the screen.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 365. Td
+(The layout of the map is the same on both sides, but they are hallways the conected to other hallways, and there built in) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 352. Td
+(a way that makes the player have to choose if they wanna commit to that hallway or move into another one. The) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 339. Td
+(hallways are cut into different parts, making it different throughout the gameplay. The pellets also help in the player's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 326. Td
+(decision-making by making them choose if they should start moving to another corner or try to finish collecting one side) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 313. Td
+(completely before moving on. Progression across the rounds increases the ghost speed in moving around the map and) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 300. Td
+(cuts down the time duration of the power pellets. An example would be the player moving to the right, collecting wafers) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 287. Td
+(but realizing there's a ghost coming from the top of him, forcing him to either go back or move to a power pellet because) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 274. Td
+(of the layout of the map. The player has to decide where to go next while avoiding the ghost and trying to collect all the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 261. Td
+(points to move on.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 233. Td
+(Graphic And Audio Design) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 208. Td
+(Visual design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 191. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 176. Td
+(Explain how a visual design choice affects the experience or communicates information) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 163. Td
+(during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 150. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 135. Td
+(Due to the hardware limitations of the Atari's Television interface adapter, which could natively display only two) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 122. Td
+(hardware player sprites per scanline, programmer Tod Frye cycled the rendering of the four ghosts across consecutive) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 109. Td
+(video frames. Rather than solid entities, the ghost appears on the screen only every fourth frame, making it look like a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 96. Td
+(flicker effect. This impacted the gameplay because the ghost would constantly phase in and out of visibility, and it would) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 83. Td
+(be hard to tell which way they would go. This would also have an effect on the power pellets because sometimes you) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 70. Td
+(couldn't even tell if there able to be eaten with how they constantly flicker. This is from my own experience playing the) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 2 of 5) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 5478
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(game and trying to get high points. An example is when I picked up the power and went to eat them without realizing it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(was over. Another clue is the audio, but I had it muted because the audio is harsh to the ears.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 709. Td
+(https://en.wikipedia.org/wiki/Pac-Man_\(Atari_2600_video_game\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 696. Td
+(https://pacman.fandom.com/wiki/Pac-Man_\(Atari_2600\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 668. Td
+(Sound design) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 651. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 636. Td
+(Explain how music, sound effects, or their absence affect the experience or communicate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 623. Td
+(information during play. Use a specific example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 610. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 595. Td
+(There is no music in this game, there are only sound effects throughout the game. The absence of music can create a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 582. Td
+(more focused environment on trying to beat the level and only hearing the sound effects of the game. The game has) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 569. Td
+(sound effects for picking up the pellets and the power, as well as eating the ghosts. The sound effects are very rough,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 556. Td
+(with the eating of pellets sounds grating and not appealing to hear. The sound effect of eating the ghost has a nice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 543. Td
+(jingle to it, making it rewarding to eat the ghost to hear that rather than the grain pellets. That probably wasn't the intent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 530. Td
+(of the developer, but it gives more incentive to eat the ghost rather than just points. The boot-up sound of the game is) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 517. Td
+(loud and harsh to the ears. This is because of the game console hardware limitations to make clear sounds.An example) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 504. Td
+(would be me playing the game and turning off the sound because it's harsh and hard to focus when you have the grainy) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 491. Td
+(noise in your ears.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 463. Td
+(Narrative And Storytelling) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 438. Td
+(Narrative and setting) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 421. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 406. Td
+(Explain how the setting and story relate to play. Describe key events if present, or explain) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 393. Td
+(the effect of a limited or absent story.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 380. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 365. Td
+(There is no story ot and thing here that relates to the play. This is just bare bones gameplay of a yellow ball eating a) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 352. Td
+(ghost and pellets. There are no key events other than the power-ups letting you eat the ghost. This doesn't affect the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 339. Td
+(gameplay whatsoever because this isn't a game to think about the story, but rather a game to just get high points.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 311. Td
+(Character development) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 294. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 279. Td
+(Explain how character development relates to gameplay, or how limited or absent) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 266. Td
+(development affects the experience.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 253. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 238. Td
+(There isn't character development in the game at all, it's just a yellow circle eating ghosts and pellets. The absence of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 225. Td
+(development doesn't affect the gameplay or experience at all. The ghosts do have names and are based on their colors,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 212. Td
+(but in the Atari, you can't tell anybody apart. Pac-Man himself is all we get and doesn't change the experience at all.) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 184. Td
+(Impact And Reception) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 159. Td
+(Reception) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 142. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 127. Td
+(Summarize the critical and player reception using identifiable reviews or feedback.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 114. Td
+(Distinguish release-era reception from later reactions.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 101. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 86. Td
+(To summarize, the reception it got was mixed, with more of a critical review that came out for the version of the game. A) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 73. Td
+(review in Electronic Game Magazine talks about how Atari translated the core idea of the arcade and rules to home) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 60. Td
+(hardware decently but criticizes the presentation of it, pointing out the flickering ghost, the different map, and the dots) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 3 of 5) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 5884
+>>
+stream
+0.200025 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 748. Td
+(becoming dashes. This soured the marketing for this game from multiple people disliking this version of Pac-Man) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 735. Td
+(because it wasn't faithful to the original one. It sold millions, but it was estimated to make more, so they overproduced) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 722. Td
+(on the units, leaving millions of units unsold and also getting a high return rate. This is what led to the downfall of the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 709. Td
+(game industry in America. Later, they released a version of the Atari with the old game, and now in this current age it's) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 696. Td
+(looked back at fondly and has good reviews mainly because of the special edition console that came with the rerelease.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 657. Td
+(Citation:https://intotheverticalblank.com/2017/04/05/pac-man-electronic-games-magazine-and-the-exact-moment-atari-l) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 644. Td
+(ost-the-video-game-war/) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 616. Td
+(Industry and cultural impact) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 599. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 584. Td
+(Explain the game's industry impact and cultural significance using research. Avoid claiming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 571. Td
+(influence that the sources do not establish.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 558. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 543. Td
+(The game industry and cultural significance of this game are large. This game became the best-selling home cartridge) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 530. Td
+(in the console's lifespan, but it was also the catalyst for the massive market collapse known as the North American) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 517. Td
+(video game crash of 1983. The overproduction of the Pac-Man cartridges was one of the leading causes of its downfall) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 504. Td
+(and the market collapse. Over 5 million copies didn't sell even after it went on discount, and with the launch of ET,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 491. Td
+(retailers noted that customers weren't buying the game and noted it was not a worthwhile product to have in stores. The) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 478. Td
+(business model of Pac-Man was to piggyback on the arcade success, but without it exceeding expectations, the arcade) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 465. Td
+(people didn't want it, and this can be traced back to Atari's financial downfall. Warner Communications reported) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 452. Td
+(massive revenue shortfalls by December 1982, which led to an industry-wide panic that forced smaller third-party) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 439. Td
+(developers into bankruptcy and opened the door for Nintendo to perform well in the American game industry. When it) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 426. Td
+(comes to the cultural impact of pac man atari there is no other article talking about the Atari version other than that it led) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 413. Td
+(to the downfall of the game industry at that time. Articles talking about the original Pac-Man arcade game and its impact.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 400. Td
+(But one thing is certain the Pac-Man Atari version showed limitations of a home console compared to the arcade) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 387. Td
+(counterpart. This showed consumers the limitations while showing what it may be capable of, with Nintendo's home) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 374. Td
+(console showing how it can improve and become better.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 322. Td
+(Cite: https://en.wikipedia.org/wiki/Pac-Man_\(Atari_2600_video_game\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 309. Td
+(https://intotheverticalblank.com/2017/04/05/pac-man-electronic-games-magazine-and-the-exact-moment-atari-lost-the-vi) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 296. Td
+(deo-game-war/) Tj
+ET
+BT
+/F2 15 Tf
+17.25 TL
+0. g
+42. 268. Td
+(Reflection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 243. Td
+(Fun and experience) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 226. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 211. Td
+(Explain what made the game enjoyable or frustrating for you, using a gameplay example.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 198. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 183. Td
+(It was a mix of both for me when it came to play. Its pac man the core idea and gameplay are there, so it's gonna be) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 170. Td
+(enjoyable to me no matter what. I've always enjoyed playing Pac-Man, so this just felt like another version of the game.) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 157. Td
+(That was my enjoyment of the game, but the frustration was the controls and the style of it. The flickering ghost is the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 144. Td
+(most frustrating part of it, with it being hard to tell when they're able to be eaten and everything. That and the audio was) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 131. Td
+(not fun, so I had it on mute to play the game. It also felt unresponsive, and in moments, especially when I'm trying to) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 118. Td
+(move up, sometimes I would tend to go back and forth all the time because it wants you to be precise in that movement,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 105. Td
+(so I get stuck leaving the corner of the map. Over all thought my enjoyment of the game was alright to me; I prefer the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 92. Td
+(original or even the Google version.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 4 of 5) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2030
+>>
+stream
+0.200025 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+42. 748. Td
+(Learning and research) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+48. 731. Td
+(Response prompt) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 716. Td
+(Reflect on what this case study taught you and how easy or difficult it was to find) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+48. 703. Td
+(dependable information.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0. g
+54. 690. Td
+(Submitted response) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 675. Td
+(This case study wasn't easy because it was hard to find information about this type of Pac-Man version. Pac-Man is so) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 662. Td
+(massive a video game icon that when it came to searching anything about Pac-Man, it always pointed me to the original) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 649. Td
+(arcade version of it. Even when I tried searching for the Atari version, it would be hard because Atari re-released the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 636. Td
+(console with the game to make a special edition. Every time I searched that up, it would just point me to that console) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 623. Td
+(page to look at and buy. Wiki helped a lot with my research because it provided lots of information about that type of) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 610. Td
+(version and game I was looking for. This taught me about the video game industry crash in America, which I didn't know) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 597. Td
+(much about before researching this, so it taught me the troubles of the industry and how it could help even during this) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 584. Td
+(time of the game industry, and how it's struggling to find a footing as of late, with massive companies doing layoffs but) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+54. 571. Td
+(also helping indie developers rise to the occasion. I liked learning about this, and it taught me a lot.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+42. 22. Td
+(Learn Worksheet V4 submission | Page 5 of 5) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261012202004-04'00')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000025951 00000 n 
+0000027798 00000 n 
+0000000015 00000 n 
+0000000544 00000 n 
+0000005808 00000 n 
+0000005913 00000 n 
+0000012083 00000 n 
+0000012188 00000 n 
+0000017718 00000 n 
+0000017824 00000 n 
+0000023761 00000 n 
+0000023868 00000 n 
+0000026033 00000 n 
+0000026159 00000 n 
+0000026290 00000 n 
+0000026424 00000 n 
+0000026562 00000 n 
+0000026686 00000 n 
+0000026815 00000 n 
+0000026947 00000 n 
+0000027083 00000 n 
+0000027211 00000 n 
+0000027338 00000 n 
+0000027467 00000 n 
+0000027600 00000 n 
+0000027702 00000 n 
+0000028051 00000 n 
+0000028137 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <B257AA1E86E9F9706D445FCA0A34D45C> <B257AA1E86E9F9706D445FCA0A34D45C> ]
+>>
+startxref
+28241
+%%EOF
